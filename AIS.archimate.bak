@@ -39,7 +39,7 @@
   <folder name="Views" id="id-cabfe13a7edb4c388ad7f09ba0dd0790" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-c35449afb3b7479bae8a1512a5356fde">
       <child xsi:type="archimate:Group" id="id-7b0aa59c11014ea5842925e89322bff1" name="Roles and Actors" textAlignment="1">
-        <bounds x="180" y="24" width="997" height="217"/>
+        <bounds x="180" y="24" width="1009" height="217"/>
         <child xsi:type="archimate:DiagramObject" id="id-bf7b9782efb54988b2dc02c274f986ff" targetConnections="id-230085c4d5bf45ec97beb08040dc9758 id-c6e01ae23e164719bb672839fa116a15" archimateElement="id-9468756ff7614d6ebbec3fa0e550d636">
           <bounds x="36" y="60" width="120" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-28731fe0353d46c99e13863be6ca6eea" source="id-bf7b9782efb54988b2dc02c274f986ff" target="id-d2e77032ac674af7933b997f8fbdb0e1" archimateRelationship="id-dcaabf58b9984ed8b1d6c0ce31311a53"/>
@@ -69,9 +69,9 @@
         </child>
       </child>
       <child xsi:type="archimate:Group" id="id-951170092da64eac990f048e397beecf" name="Buisness processes" textAlignment="1">
-        <bounds x="180" y="516" width="997" height="169"/>
+        <bounds x="192" y="516" width="997" height="169"/>
         <child xsi:type="archimate:DiagramObject" id="id-f925aa6a25a7425e98c1b5529a02d8b7" targetConnections="id-430dd3d9a79e448e80a3ffe14101833b" archimateElement="id-8e3dde08cd6c428d97b1adb15692ef29">
-          <bounds x="84" y="36" width="805" height="97"/>
+          <bounds x="72" y="36" width="805" height="97"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-e3fe58ac69894479a641005a224ce33c" source="id-f925aa6a25a7425e98c1b5529a02d8b7" target="id-9292fc4cfc4546e68ea47665e1c7bfba" archimateRelationship="id-b665173bee69427fb2e2b40c7e37165a"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-52f8ee84d8c94d4dabfd0cd1f3c3c347" source="id-f925aa6a25a7425e98c1b5529a02d8b7" target="id-1b03cdf0b77141eaa20c02b19a2873d0" archimateRelationship="id-ca66a63310be480ba5ba1adb6fec9126"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-29b15269eff44832ad7ea9a7df071823" source="id-f925aa6a25a7425e98c1b5529a02d8b7" target="id-5e51f13611ab406c9b9e79d92d668720" archimateRelationship="id-7c9f9d7e32d44f3d895248d508596cb0"/>
